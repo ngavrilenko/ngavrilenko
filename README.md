@@ -23,7 +23,17 @@ Functional • Regression • UI • API • Smoke • Exploratory
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+### 🛠️ Tools I Use
 
+<p align="left">
+  <img src="https://cdn.simpleicons.org/xcode/007ACC" height="40" alt="Xcode" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="Android Studio" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="Visual Studio Code" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
+</p>
 ---
 
 ## 📂 Примеры работ и активностей
