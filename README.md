@@ -7,9 +7,8 @@
 
 ---
 
-##  Tools by Testing Type
+##  Используемые инструменты
 
-🍀 **Используемые инструменты**
 <p align="left">
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira" />
   <img src="https://cdn.simpleicons.org/youtrack/2E9FFF" height="40" alt="YouTrack" />
