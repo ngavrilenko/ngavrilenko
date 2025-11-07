@@ -10,7 +10,6 @@
 ##  Используемые инструменты
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira" />
   <img src="https://cdn.simpleicons.org/youtrack/2E9FFF" height="40" alt="YouTrack" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" />
   <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome DevTools" />
