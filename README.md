@@ -1,16 +1,42 @@
-## Hi there 👋
+<!-- Приветствие -->
+# 👋 Привет! Я — Анна, QA Engineer  
 
-<!--
-**ngavrilenko/ngavrilenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я тестировщик с опытом ручного и автоматизированного тестирования веб- и мобильных приложений.  
+Люблю исследовать, искать баги и делать продукты лучше 💡  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Технологии и инструменты
+
+🧪 **Тестирование:** Manual, Functional, Regression, API, UI  
+⚙️ **Инструменты:** Postman, Swagger, Charles, DevTools, Jira, TestRail  
+🤖 **Автоматизация:** Java + Selenium, Python + Pytest, Playwright, GitHub Actions  
+☁️ **CI/CD:** Jenkins, Docker (базовые знания)  
+
+---
+
+## 📂 Примеры проектов
+
+🔹 [UI-тесты для веб-приложения](https://github.com/твоя-ссылка) — автоматизация с использованием Selenium  
+🔹 [API-тестирование с Postman](https://github.com/твоя-ссылка) — коллекции и тесты для REST API  
+🔹 [Тестовая документация](https://github.com/твоя-ссылка) — чек-листы, тест-кейсы, баг-репорты  
+
+---
+
+## 📫 Как связаться
+
+💼 [LinkedIn](https://linkedin.com/in/твой-профиль)  
+📧 Email: tvoemail@example.com  
+📄 [Резюме (Google Docs)](https://link)  
+
+---
+
+## 🌱 Немного обо мне
+
+🎯 Всегда стремлюсь повышать качество продукта  
+📚 Изучаю автоматизацию и CI/CD  
+☕ Люблю кофе и детективы о расследовании багов 😄  
+
+---
+
+⭐️ *Если тебе понравились мои проекты — поставь звёздочку!*
