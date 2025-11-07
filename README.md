@@ -37,8 +37,8 @@
 
 ## 📫 Контакты
 
-💼 [LinkedIn](https://www.linkedin.com/in/natalia-gavrilenko-80b3b364)  
-📧 n.gavrilenko@hotmail.com
+🔹 [LinkedIn](https://www.linkedin.com/in/natalia-gavrilenko-80b3b364)  
+🔹 n.gavrilenko@hotmail.com
 
 ---
 
