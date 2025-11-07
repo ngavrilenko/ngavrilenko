@@ -9,42 +9,56 @@
 
 ##  Tools by Testing Type
 
-###  Development & IDEs
+🍀 **Test Documentation:**
 <p align="left">
-   <img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="Xcode" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="Android Studio" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="Visual Studio" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="Visual Studio Code" />
-</p>
-
-###  Design & Prototyping
-<p align="left">
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira" />
+  <img src="https://cdn.simpleicons.org/youtrack/2E9FFF" height="40" alt="YouTrack" />
+  <img src="https://cdn.simpleicons.org/confluence/172B4D" height="40" alt="Confluence" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" />
 </p>
 
-###  API & Backend Testing
+---
+
+🍀 **Web Application Testing:**
 <p align="left">
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome DevTools" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="SQL" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" alt="Swagger" />
 </p>
 
-###  DevOps & Source Control
+---
+
+🍀 **Mobile Application Testing:**
+<p align="left">
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="Android Studio" />
+  <img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="Xcode" />
+  <img src="https://cdn.simpleicons.org/appium/EE376D" height="40" alt="Appium" />
+</p>
+
+---
+
+🍀 **Working with Databases:**
+<p align="left">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="SQLite" />
+</p>
+
+---
+
+🍀 **Working with Code:**
 <p align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code" />
 </p>
 
-###  Project & Bug Tracking
-<p align="left">
-  <img src="https://cdn.simpleicons.org/youtrack/2E9FFF" height="40" alt="YouTrack" />
-</p>
+---
 
-###  Web Debugging & Browser Tools
+🍀 **Social Media:**
 <p align="left">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome DevTools" />
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40" alt="Telegram" />
 </p>
 
 
