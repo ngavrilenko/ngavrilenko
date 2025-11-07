@@ -10,7 +10,7 @@
 ## 🧪 Tools by Testing Type
 
 ### 🧰 Development & IDEs
-<p align="center">
+<p align="left">
   <img src="https://cdn.simpleicons.org/xcode/007ACC" height="40" alt="Xcode" />
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="Android Studio" />
   <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="Visual Studio" />
