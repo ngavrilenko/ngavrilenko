@@ -21,7 +21,8 @@ Functional • Regression • UI • API • Smoke • Exploratory
 ![YouTrack](https://img.shields.io/badge/YouTrack-000000?logo=youtrack&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?logo=googlechrome&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![dbear](https://dbeaver.io/)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
