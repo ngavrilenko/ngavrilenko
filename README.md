@@ -25,6 +25,7 @@
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code" />
 </p>
 
+---
 
 ## Тестовые артефакты
 
