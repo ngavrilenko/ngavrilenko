@@ -7,42 +7,45 @@
 
 ---
 
-## 🧰 Мои навыки и инструменты
+## 💼 Tools & Technologies by Testing Type
 
-### 🔹 Тестирование
-Functional • Regression • UI • API • Smoke • Exploratory  
-
-### 🔹 Инструменты и технологии  
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
-![YouTrack](https://img.shields.io/badge/YouTrack-000000?logo=youtrack&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?logo=googlechrome&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-### 🛠️ Tools I Use
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/xcode/007ACC" height="40" alt="Xcode" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="Android Studio" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="Visual Studio Code" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
-   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="SQL" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="Visual Studio" />
+### 🧪 Manual / Functional Testing
+<p align="center">
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
   <img src="https://cdn.simpleicons.org/youtrack/000000" height="40" alt="YouTrack" />
   <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome DevTools" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/xcode/007ACC" height="40" alt="Xcode" />
 </p>
----
+
+### ⚙️ Automation & Development
+<p align="center">
+  <img src="https://cdn.simpleicons.org/xcode/007ACC" height="40" alt="Xcode" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="Android Studio" />
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="Visual Studio" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
+</p>
+
+### 💾 Databases & Backend
+<p align="center">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="SQL" />
+</p>
+
+### 🎨 Design & UX
+<p align="center">
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" />
+</p>
+
+### 🧰 Dev Tools & Collaboration
+<p align="center">
+  <img src="https://cdn.simpleicons.org/youtrack/000000" height="40" alt="YouTrack" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
+</p>
+
 
 ## 📂 Примеры работ и активностей
 
