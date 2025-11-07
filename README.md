@@ -33,6 +33,14 @@ Functional • Regression • UI • API • Smoke • Exploratory
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="Visual Studio Code" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
+   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="SQL" />
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="Visual Studio" />
+  <img src="https://cdn.simpleicons.org/youtrack/000000" height="40" alt="YouTrack" />
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome DevTools" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/xcode/007ACC" height="40" alt="Xcode" />
 </p>
 ---
 
