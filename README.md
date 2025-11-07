@@ -7,43 +7,44 @@
 
 ---
 
-## 💼 Tools & Technologies by Testing Type
+## 🧪 Tools by Testing Type
 
-### 🧪 Manual / Functional Testing
-<p align="center">
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
-  <img src="https://cdn.simpleicons.org/youtrack/000000" height="40" alt="YouTrack" />
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome DevTools" />
-</p>
-
-### ⚙️ Automation & Development
+### 🧰 Development & IDEs
 <p align="center">
   <img src="https://cdn.simpleicons.org/xcode/007ACC" height="40" alt="Xcode" />
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="Android Studio" />
   <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="Visual Studio" />
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
 </p>
 
-### 💾 Databases & Backend
+### 🎨 Design & Prototyping
 <p align="center">
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" />
+</p>
+
+### 🧠 API & Backend Testing
+<p align="center">
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="SQL" />
 </p>
 
-### 🎨 Design & UX
+### ⚙️ DevOps & Source Control
 <p align="center">
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
 </p>
 
-### 🧰 Dev Tools & Collaboration
+### 🧭 Project & Bug Tracking
 <p align="center">
-  <img src="https://cdn.simpleicons.org/youtrack/000000" height="40" alt="YouTrack" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
+  <img src="https://cdn.simpleicons.org/youtrack/2E9FFF" height="40" alt="YouTrack" />
+</p>
+
+### 🧩 Web Debugging & Browser Tools
+<p align="center">
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome DevTools" />
 </p>
 
 
