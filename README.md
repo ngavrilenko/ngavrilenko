@@ -7,7 +7,7 @@
 
 ---
 
-##  Используемые инструменты
+##  Используемые инструменты:
 
 <p align="left">
   <img src="https://resources.jetbrains.com/storage/products/youtrack/img/meta/youtrack_logo_300x300.png" height="40" alt="YouTrack" />
@@ -27,7 +27,7 @@
 
 ---
 
-## Тестовые артефакты
+## Тестовые артефакты:
 
 - [Теория тестирования](https://github.com/ngavrilenko/theory.git) 
 - [Техники тест-дизайна](https://github.com/ngavrilenko/design.git) 
@@ -38,10 +38,14 @@
 
 ---
 
-## 📫 Контакты
+ Пройденные курсы:
+- Курс Функциональное тестирование ПО от Артема Русова
+- Курс Тестирование ПО с нуля. Теория + Практика
 
-🔹 [LinkedIn](https://www.linkedin.com/in/natalia-gavrilenko-80b3b364)  
-🔹 n.gavrilenko@hotmail.com
+## 📫 Контакты:
+
+- [LinkedIn](https://www.linkedin.com/in/natalia-gavrilenko-80b3b364)  
+- n.gavrilenko@hotmail.com
 
 ---
 
