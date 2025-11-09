@@ -25,7 +25,7 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
- <img src="https://cdn.simpleicons.org/vscode/007ACC" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
 </p>
 
 ---
