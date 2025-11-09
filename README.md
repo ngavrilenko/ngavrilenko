@@ -40,6 +40,7 @@
 - [Работа с базами данных](https://github.com/ngavrilenko/database.git) 
 - [Тестирование мобильных приложений](https://github.com/ngavrilenko/mobile-testing.git)
 - [Работа с git и bash](https://github.com/ngavrilenko/git_bash.git)
+- [Тестирование API](https://github.com/ngavrilenko/api-testing.git))
 
 ---
 
