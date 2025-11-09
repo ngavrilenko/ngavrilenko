@@ -13,18 +13,18 @@
 ##  Используемые инструменты:
 
 <p align="left">
-  <img src="https://resources.jetbrains.com/storage/products/youtrack/img/meta/youtrack_logo_300x300.png" height="40" alt="YouTrack" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" />
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Chrome DevTools" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
+  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" alt="Swagger" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="Android Studio" />
-  <img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="Xcode" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbs
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
 </p>
 
