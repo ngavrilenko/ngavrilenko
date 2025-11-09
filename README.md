@@ -36,11 +36,12 @@
 
 - [Теория тестирования](https://github.com/ngavrilenko/theory.git) 
 - [Техники тест-дизайна](https://github.com/ngavrilenko/design.git) 
-- [Тестирование веб-приложений](https://github.com/ngavrilenko/web-testing.git) 
+- [Тестирование веб-приложений](https://github.com/ngavrilenko/web-testing.git)
+- [Тестирование API](https://github.com/ngavrilenko/api-testing.git)
 - [Работа с базами данных](https://github.com/ngavrilenko/database.git) 
 - [Тестирование мобильных приложений](https://github.com/ngavrilenko/mobile-testing.git)
 - [Работа с git и bash](https://github.com/ngavrilenko/git_bash.git)
-- [Тестирование API](https://github.com/ngavrilenko/api-testing.git)
+
 
 ---
 
