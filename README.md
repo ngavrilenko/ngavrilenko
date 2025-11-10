@@ -49,10 +49,8 @@
 - Курс Функциональное тестирование ПО от Артема Русова
 - Курс Тестирование ПО с нуля. Теория + Практика
 
-##  Мое [резюме](https://drive.google.com/file/d/1W6Rq-HYqGscisQ9I1wmDViK8WRNotnn2/view?usp=sharing))
-
-##  Мои контакты:
-
+ Мое [резюме](https://drive.google.com/file/d/1W6Rq-HYqGscisQ9I1wmDViK8WRNotnn2/view?usp=sharing))
+ Мои контакты:
 - [LinkedIn](https://www.linkedin.com/in/natalia-gavrilenko-80b3b364)  
 - n.gavrilenko@hotmail.com
 
