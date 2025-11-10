@@ -10,6 +10,15 @@
 **Мой подход:**  
 Я ценю структурированность, аналитический взгляд и постоянное улучшение процессов. Верю, что качественная работа строится на внимании к мелочам и понимании общей картины.
 
+---
+
+ Мое [резюме](https://drive.google.com/file/d/1W6Rq-HYqGscisQ9I1wmDViK8WRNotnn2/view?usp=sharing)
+ Как со мной связаться:
+- [LinkedIn](https://www.linkedin.com/in/natalia-gavrilenko-80b3b364)  
+- n.gavrilenko@hotmail.com
+
+---
+
 ##  Используемые инструменты:
 
 <p align="left">
@@ -48,11 +57,6 @@
  ## Пройденные курсы:
 - Курс Функциональное тестирование ПО от Артема Русова
 - Курс Тестирование ПО с нуля. Теория + Практика
-
- Мое [резюме](https://drive.google.com/file/d/1W6Rq-HYqGscisQ9I1wmDViK8WRNotnn2/view?usp=sharing)
- Мои контакты:
-- [LinkedIn](https://www.linkedin.com/in/natalia-gavrilenko-80b3b364)  
-- n.gavrilenko@hotmail.com
 
 ---
 
