@@ -38,7 +38,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
 </p>
+### 🛠 Tools & Technologies
 
+<table>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/ms-sql-server-2019.svg" alt="MS SQL" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/json.svg" alt="JSON" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/api.svg" alt="API" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/youtrack-2.svg" alt="YouTrack" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/qase-io.svg" alt="Qase.io" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/1c.svg" alt="1C: Document Management" width="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/ms-visual-studio.svg" alt="MS Visual Studio" width="40"/></td>
+  </tr>
+</table>
+
+### 🧪 Testing Skills
+
+Requirements analysis | Test case & checklist design | Functional testing | API testing | UI testing | SQL database validation | Usability testing
 ---
 
 ## Тестовые артефакты:
