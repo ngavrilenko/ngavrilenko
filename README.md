@@ -12,7 +12,9 @@
 
 ---
 
-- Вы можете ознакомиться с  моим [резюме](https://drive.google.com/file/d/19RW744GYnxJI2iG1cNOXz2XQC8YAADFf/view?usp=sharing)
+- Вы можете ознакомиться с  моим [резюме](https://drive.google.com/file/d/1AdPzqDMxpQUswl3vayGEnioLqc2QO-4b/view?usp=sharing)
+
+
  
 - Как со мной связаться:
  [LinkedIn](https://www.linkedin.com/in/natalia-gavrilenko-80b3b364) и  [mail](n.gavrilenko@hotmail.com) 
