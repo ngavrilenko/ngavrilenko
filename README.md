@@ -12,7 +12,7 @@
 
 ---
 
-- Вы можете ознакомиться с  моим [резюме](https://github.com/ngavrilenko/ngavrilenko/blob/c3456b62cf9fd5af926b9828613ebe6bd0c03934/CV_%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%9D.pdf)
+- Вы можете ознакомиться с  моим [резюме](https://drive.google.com/file/d/19CL-vh7ArUsbUXEYyvAiWYQzPRGtQRaD/view?usp=sharing)
 
 
  
